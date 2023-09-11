@@ -1,0 +1,1 @@
+# hive-to-avro-schema
